@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+/* 共通部分
+------------------------------- */
+
+.body{
+    margin:0;
+    padding: 0;
+    background-color: #ffffff;
+    color: #333333;
+    font-family: sans-serif;
+}
+.hero{
+    background-image: url(../images/outside.webp);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    text-align: center;
+    padding-top: 140px;
+    box-sizing: border-box;
+}
+.hero h1{
+    color: #ffffff;
+    font-size: 40px;
+    margin: 0;
+    letter: spacing 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+.section{
+
+}
